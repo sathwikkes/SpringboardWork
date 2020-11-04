@@ -1,5 +1,5 @@
 # Springboard Curriculum - assignments 
-(attempting to add all my work and be organized)
+(WORK in PROGRESS)
 ### Real estate price changes in London Boroughs - case study - unit 4
 ### Working with JSON, Stock/Quandl API Mini Project - assn - unit 7
 ### SQL Country Club - case study - unit 8
@@ -7,3 +7,4 @@
 ### App store vs Google store - case study - unit 11
 ### Wine Linear Regression - case study - unit 11
 ### Boston Housing Linear Regression - case study
+### Logistic Regression - case study - unit 14 
