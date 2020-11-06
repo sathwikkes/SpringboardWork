@@ -8,3 +8,5 @@
 ### Wine Linear Regression - case study - unit 11
 ### Boston Housing Linear Regression - case study
 ### Logistic Regression - case study - unit 14 
+### Random Forest - case study - unit 14
+### Gradient Boosting - case study - unit 14
