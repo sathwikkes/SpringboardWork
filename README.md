@@ -1,12 +1,17 @@
 # Springboard Curriculum - assignments 
 (WORK in PROGRESS)
-### Real estate price changes in London Boroughs - case study - unit 4
-### Working with JSON, Stock/Quandl API Mini Project - assn - unit 7
-### SQL Country Club - case study - unit 8
-### Frequentist Inference - case study - unit 11 
-### App store vs Google store - case study - unit 11
-### Wine Linear Regression - case study - unit 11
-### Boston Housing Linear Regression - case study
-### Logistic Regression - case study - unit 14 
-### Random Forest - case study - unit 14
-### Gradient Boosting - case study - unit 14
+### Real estate price changes in London Boroughs (UNIT #4)
+### Working with JSON, Stock/Quandl API Mini Project (UNIT #7)
+### SQL Country Club (UNIT #8)
+### Frequentist Inference (UNIT #11)
+### App store vs Google store (UNIT #11)
+### Wine Linear Regression (UNIT # 11)
+### Boston Housing Linear Regression (UNIT #11)
+### Logistic Regression (UNIT #14)
+### Random Forest (UNIT #14)
+### Gradient Boosting (UNIT #14)
+### Euclidean & Manhattan Distances (UNIT #15)
+### Cosine Similarity (UNIT #15)
+### Customer Segmentation using K-means Clustering (UNIT #15)
+### GridSearchKNN (UNIT #18)
+### Bayesian Optimization (UNIT #18)
